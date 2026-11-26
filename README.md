@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Environmental-Sustainability-Waste-Reduction"><img src="https://img.shields.io/badge/Awesome-Sustainability-10b981.svg?style=flat-square" alt="Awesome"/></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Environmental-Sustainability-Waste-Reduction/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Environmental-Sustainability-Waste-Reduction?style=flat-square&color=10b981" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Environmental-Sustainability-Waste-Reduction/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Environmental-Sustainability-Waste-Reduction?style=flat-square&color=10b981" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Environmental-Sustainability-Waste-Reduction/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Environmental-Sustainability-Waste-Reduction?style=flat-square&color=10b981" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Environmental-Sustainability-Waste-Reduction/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -65,9 +65,9 @@ From a market structure perspective, the enterprise sustainability reporting and
 
 ## 💻 Open-Source Repositories & Toolkits
 
-*Open-source projects are sorted descending by GitHub stargazers count. Each star badge links directly to the respective repository's stargazers page.*
+*Open-source projects are sorted descending by GitHub stargazers count. Each Stars_Badge links directly to the respective repository's stargazers page.*
 
-| Repository | GitHub Stars Badge | License / Hosting | Description |
+| Repository | GitHub_Stars_Badge | License / Hosting | Description |
 | :--- | :--- | :--- | :--- |
 | **[Electricity Maps Contrib](https://github.com/electricitymaps/electricitymaps-contrib)** ⚡ | [![Stars](https://img.shields.io/github/stars/electricitymaps/electricitymaps-contrib?style=social&color=white)](https://github.com/electricitymaps/electricitymaps-contrib/stargazers) | **AGPL-3.0** (Free self-host) | Real-time global electricity grid carbon intensity data parsers and live visualization engine used globally by researchers and green applications. |
 | **[Scaphandre](https://github.com/hubblo-org/scaphandre)** 🔌 | [![Stars](https://img.shields.io/github/stars/hubblo-org/scaphandre?style=social&color=white)](https://github.com/hubblo-org/scaphandre/stargazers) | **Apache-2.0** (Free self-host) | Electrical energy consumption metrology agent designed to monitor and export server power consumption to Prometheus, InfluxDB, or terminal dashboards. |
